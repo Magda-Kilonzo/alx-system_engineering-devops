@@ -1,2 +1,2 @@
 #!/bin/bash
-mvr *[[:upper:]]* /tmp/u
+mvr 0x00-shell_basics *[[:upper:]]* /tmp/u
